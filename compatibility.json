@@ -1,0 +1,8 @@
+{
+  "application": "CHITUBOX Basic 2.3.1 Linux x86_64",
+  "minimum_glibc": "2.38",
+  "libraries": {
+    "libCbdKernel.so.1": "5dbcedd7f0e90b91f7e0e34c4b98b48506fb891fda6b131921e2beaf34c241b1",
+    "libCbdModel.so.1": "05185ca2e4c76d6142ee3450e6efd43dae7ea22e0fc3a9150fc27b99180bf711"
+  }
+}

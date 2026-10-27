@@ -1,0 +1,198 @@
+solid boss
+facet normal 0 0 0
+outer loop
+vertex -15 -10 0
+vertex -5 10 0
+vertex -5 -10 0
+endloop
+endfacet
+facet normal 0 0 0
+outer loop
+vertex -15 -10 0
+vertex -15 10 0
+vertex -5 10 0
+endloop
+endfacet
+facet normal 0 0 0
+outer loop
+vertex -5 -10 0
+vertex -5 10 -30
+vertex -5 -10 -30
+endloop
+endfacet
+facet normal 0 0 0
+outer loop
+vertex -5 -10 0
+vertex -5 10 0
+vertex -5 10 -30
+endloop
+endfacet
+facet normal 0 0 0
+outer loop
+vertex -5 -10 -30
+vertex 5 10 -30
+vertex 5 -10 -30
+endloop
+endfacet
+facet normal 0 0 0
+outer loop
+vertex -5 -10 -30
+vertex -5 10 -30
+vertex 5 10 -30
+endloop
+endfacet
+facet normal 0 0 0
+outer loop
+vertex 5 -10 -30
+vertex 5 10 0
+vertex 5 -10 0
+endloop
+endfacet
+facet normal 0 0 0
+outer loop
+vertex 5 -10 -30
+vertex 5 10 -30
+vertex 5 10 0
+endloop
+endfacet
+facet normal 0 0 0
+outer loop
+vertex 5 -10 0
+vertex 15 10 0
+vertex 15 -10 0
+endloop
+endfacet
+facet normal 0 0 0
+outer loop
+vertex 5 -10 0
+vertex 5 10 0
+vertex 15 10 0
+endloop
+endfacet
+facet normal 0 0 0
+outer loop
+vertex 15 -10 0
+vertex 15 10 3
+vertex 15 -10 3
+endloop
+endfacet
+facet normal 0 0 0
+outer loop
+vertex 15 -10 0
+vertex 15 10 0
+vertex 15 10 3
+endloop
+endfacet
+facet normal 0 0 0
+outer loop
+vertex 15 -10 3
+vertex -15 10 3
+vertex -15 -10 3
+endloop
+endfacet
+facet normal 0 0 0
+outer loop
+vertex 15 -10 3
+vertex 15 10 3
+vertex -15 10 3
+endloop
+endfacet
+facet normal 0 0 0
+outer loop
+vertex -15 -10 3
+vertex -15 10 0
+vertex -15 -10 0
+endloop
+endfacet
+facet normal 0 0 0
+outer loop
+vertex -15 -10 3
+vertex -15 10 3
+vertex -15 10 0
+endloop
+endfacet
+facet normal 0 0 0
+outer loop
+vertex -15 -10 0
+vertex -5 -10 0
+vertex -5 -10 3
+endloop
+endfacet
+facet normal 0 0 0
+outer loop
+vertex -15 -10 0
+vertex -5 -10 3
+vertex -15 -10 3
+endloop
+endfacet
+facet normal 0 0 0
+outer loop
+vertex -5 -10 -30
+vertex 5 -10 -30
+vertex 5 -10 3
+endloop
+endfacet
+facet normal 0 0 0
+outer loop
+vertex -5 -10 -30
+vertex 5 -10 3
+vertex -5 -10 3
+endloop
+endfacet
+facet normal 0 0 0
+outer loop
+vertex 5 -10 0
+vertex 15 -10 0
+vertex 15 -10 3
+endloop
+endfacet
+facet normal 0 0 0
+outer loop
+vertex 5 -10 0
+vertex 15 -10 3
+vertex 5 -10 3
+endloop
+endfacet
+facet normal 0 0 0
+outer loop
+vertex -15 10 0
+vertex -5 10 3
+vertex -5 10 0
+endloop
+endfacet
+facet normal 0 0 0
+outer loop
+vertex -15 10 0
+vertex -15 10 3
+vertex -5 10 3
+endloop
+endfacet
+facet normal 0 0 0
+outer loop
+vertex -5 10 -30
+vertex 5 10 3
+vertex 5 10 -30
+endloop
+endfacet
+facet normal 0 0 0
+outer loop
+vertex -5 10 -30
+vertex -5 10 3
+vertex 5 10 3
+endloop
+endfacet
+facet normal 0 0 0
+outer loop
+vertex 5 10 0
+vertex 15 10 3
+vertex 15 10 0
+endloop
+endfacet
+facet normal 0 0 0
+outer loop
+vertex 5 10 0
+vertex 5 10 3
+vertex 15 10 3
+endloop
+endfacet
+endsolid boss
